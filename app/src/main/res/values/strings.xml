@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Explicit Intent Program</string>
+    <string name="go_to_profile_activity">Go to Profile Activity</string>
+    <string name="first_activity">First Activity</string>
+    <string name="profile_activity">Profile Activity</string>
+    <string name="button">Button</string>
+</resources>
